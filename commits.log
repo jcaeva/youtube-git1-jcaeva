@@ -1,0 +1,98 @@
+commit d7ebc5cebc9e1eb90440a5163cf9b140bf04dc02
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Tue Apr 11 17:45:51 2023 -0500
+
+    Agregando 2 párrafos
+
+commit a496fa3ab2ce32e9d64481e682d1712fe287e71b
+Merge: ce35a67 5832414
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Tue Apr 11 17:43:21 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit ce35a67a4ff0bbe80433aa51faa66ce645c0a3e3
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Tue Apr 11 17:24:03 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 5832414adb66cd6c78fa5e7751423eb49f4af85e
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Tue Apr 11 17:24:03 2023 -0500
+
+    Agregando las estaciones del año
+
+commit bfe8a86bfdd99f38ea4e6a7780897c28c3487700
+Merge: 8f96f1f 818a033
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 18:56:36 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 818a033982c8c15a720f42d3064a8e6a034fa5ea
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 18:49:17 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 8f96f1f857d5730e6939059671949bf964bb5247
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 18:46:42 2023 -0500
+
+    Agregando style.css al index.html
+
+commit f3151685606d6ed0d45fb4617478acab1a4867cd
+Merge: 1c6dd4c a848dfb
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:43:35 2023 -0500
+
+    Merge branch 'js'
+
+commit a848dfbd6220047272b1f08661f6e43b9348dfb1
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:41:54 2023 -0500
+
+    Creando index.js
+
+commit 1c6dd4cd6785fc1d66e8ffac1393f9a26f8eb10b
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:39:49 2023 -0500
+
+    Creando style.css
+
+commit 8d3a7af4f856b00ce5e02a5e0ed4cc52779d4fde
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:38:07 2023 -0500
+
+    Creando index.html
+
+commit c020cbfdd5e6d3fe85c49564aa582eadb02e13fa
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:35:52 2023 -0500
+
+    Ignorando archivos .exe
+
+commit 243a090eba8edba4ab47fc64d4d37f0df4e82fe5
+Author: juancarlosfx <116538698+juancarlosfx@users.noreply.github.com>
+Date:   Mon Apr 10 17:21:40 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 85ab6f92bfc6c6c637ab8a8d903a94f9e4703c2e
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:19:10 2023 -0500
+
+    Agregando más contenido al README
+
+commit d1aedccb1ea0ff4397d11b22ca3ee1513f45eb19
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:07:30 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 0178be8d8030fd8a4a39863ecd4a5fe28f4baf9a
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Apr 10 17:05:21 2023 -0500
+
+    Type Line 1: Primer commit 😀
